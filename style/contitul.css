@@ -1,0 +1,123 @@
+/* obshee */
+.punkt1{
+  display: block;
+  position: absolute;
+  background: #E9AD00;
+  height: 50px;
+  width: 60px;
+}
+.punkt2{
+  display: block;
+  position: absolute;
+  background: #E9AD00;
+  height: 50px;
+  width: 120px;
+  left: 180px;
+}
+.punkt3{
+  display: block;
+  position: absolute;
+  background: #E9AD00;
+  height: 50px;
+  width: 120px;
+  left: 420px;
+}
+.punkt4{
+  display: block;
+  position: absolute;
+  background: #E9AD00;
+  height: 50px;
+  width: 120px;
+  left: 660px;
+}
+.punkt5{
+  display: block;
+  position: absolute;
+  background: #E9AD00;
+  height: 50px;
+  width: 120px;
+  left: 900px;
+}
+.punkt6{
+  display: block;
+  position: absolute;
+  background: #E9AD00;
+  height: 50px;
+  width: 120px;
+  left: 1140px;
+}
+.punkt7{
+  display: block;
+  position: absolute;
+  background: #E9AD00;
+  height: 50px;
+  width: 60px;
+  left: 1380px;
+}
+/* colontitul */
+.contitul{
+  position: relative;
+  display: block;
+  width: 100%;
+  height: 791px;
+}
+.contitul .curcle_c{
+  display: block;
+  position: absolute;
+  border-radius: 50%;
+  border: 3.86px solid #313131;
+  font-family: Monoid;
+  font-size: 28.56px;
+  font-weight: bold;
+  color: #313131;
+  padding: 7px 10px 5px 8px;
+  top: 25px;
+  right: 500px;
+}
+.contitul h2{
+  display: block;
+  float: right;
+  font-family: Monoid;
+  font-weight: bold;
+  font-size:50px;
+  color: #313131;
+  margin: 23px 17px 13px 0;
+}
+.contitul p{
+  display: block;
+  clear: right;
+  font-family: Monoid;
+  font-size: 35px;
+  color: #313131;
+  text-align:right;
+  margin-right: 17px;
+  margin-bottom: 130px;
+}
+.hachalpunkt{
+  display: block;
+  position: absolute;
+  top: 250px;
+}
+.contitul .polocka{
+  display: block;
+  position: absolute;
+  background: #E9AD00;
+  width: 100%;
+  height: 50px;
+  top: 330px;
+}
+.contitul .text2 p{
+  display: block;
+  position: absolute;
+  font-family: Monoid;
+  color: #313131;
+  font-size: 50px;
+  line-height: 68px;
+  text-transform: uppercase;
+  top: 450px;
+  left: 255px;
+  text-align: left;
+}
+.contitul .bold{
+  font-weight: bold;
+}

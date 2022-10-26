@@ -1,0 +1,316 @@
+.doroga{
+  display: block;
+  position: relative;
+  background:#626262;
+  height: 1170px;
+  width: 100%;
+}
+/* основные размеры и виды */
+.punktwhite1{
+  display: block;
+  position: absolute;
+  background: #fff;
+  height: 50px;
+  width: 60px;
+}
+.punktwhite2{
+  display: block;
+  position: absolute;
+  background: #fff;
+  height: 50px;
+  width: 120px;
+  left: 180px;
+}
+.punktwhite3{
+  display: block;
+  position: absolute;
+  background: #fff;
+  height: 50px;
+  width: 120px;
+  left: 420px;
+}
+.punktwhite4{
+  display: block;
+  position: absolute;
+  background: #fff;
+  height: 50px;
+  width: 120px;
+  left: 660px;
+}
+.punktwhite5{
+  display: block;
+  position: absolute;
+  background: #fff;
+  height: 50px;
+  width: 120px;
+  left: 900px;
+}
+.punktwhite6{
+  display: block;
+  position: absolute;
+  background: #fff;
+  height: 50px;
+  width: 120px;
+  left: 1140px;
+}
+.punktwhite7{
+  display: block;
+  position: absolute;
+  background: #fff;
+  height: 50px;
+  width: 60px;
+  left: 1380px;
+}
+.doroga .re{
+  font-family: Monoid;
+  font-weight: 400;
+  font-size: 35px;
+  text-transform: uppercase;
+  color: #E9AD00;
+}
+.doroga .Ar{
+  font-family: Monoid;
+  font-weight: 400;
+  font-size: 170px;
+  text-transform: uppercase;
+  color: #E9AD00;
+}
+.doroga .regularcurcle p{
+  font-family: Monoid;
+  font-weight: 400;
+  font-size: 50px;
+  text-transform: uppercase;
+  color: #E9AD00;
+}
+.doroga .retinacurcle p{
+  font-family: Monoid;
+  font-weight: 400;
+  font-size: 50px;
+  text-transform: uppercase;
+  color: #E9AD00;
+}
+.doroga .bo{
+  font-family: Monoid;
+  font-weight: 700;
+  font-size: 35px;
+  letter-spacing: 5px;
+  text-transform: uppercase;
+  color: #E9AD00;
+}
+.doroga .Ab{
+  font-family: Monoid;
+  font-weight: 700;
+  font-size: 170px;
+  text-transform: uppercase;
+  color: #E9AD00;
+}
+.doroga .boldcurcle p{
+  font-family: Monoid;
+  font-weight: 700;
+  font-size: 50px;
+  text-transform: uppercase;
+  color: #E9AD00;
+}
+.doroga .it{
+  font-family: Monoid;
+  font-weight: 400;
+  font-style: italic;
+  font-size: 35px;
+  text-transform: uppercase;
+  color: #E9AD00;
+}
+.doroga .Ai{
+  font-family: Monoid;
+  font-weight: 400;
+  font-style: italic;
+  font-size: 170px;
+  text-transform: uppercase;
+  color: #E9AD00;
+}
+.doroga .italiccurcle p{
+  font-family: Monoid;
+  font-weight: 400;
+  font-style: italic;
+  font-size: 50px;
+  text-transform: uppercase;
+  color: #E9AD00;
+}
+.A1{
+  display: block;
+  position: absolute;
+  transform: rotate(-90deg);
+  left: 305px;
+  top: 10px;
+}
+.A2{
+  display: block;
+  position: absolute;
+  transform: rotate(-90deg);
+  right: 305px;
+  top: 10px;
+}
+/* polockaverh */
+.doroga .polockawhite1{
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 50px;
+  background: white;
+  top: 45px;
+}
+/* regular */
+.doroga .regular{
+  display: block;
+  position: absolute;
+  clear: both;
+  width: 100%;
+  height: 209px;
+  top: 95px;
+}
+.regularvboc1{
+  display: block;
+  position: absolute;
+  transform: rotate(-90deg);
+  left: -39px;
+  top: 86px;
+}
+.regularcurcle{
+  display: block;
+  position: absolute;
+  transform: rotate(-90deg);
+  left: 633px;
+  top: 20px;
+  border-radius: 50%;
+  border: 10px solid #E9AD00;
+  padding: 50px 25px 45px 25px;
+}
+.regularvboc2{
+  display: block;
+  position: absolute;
+  transform: rotate(-90deg);
+  right: -39px;
+  top: 86px;
+}
+/* punkt1 */
+.punktir1{
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 50px;
+  top: 304px;
+}
+
+/* retina */
+.doroga .retina{
+  display: block;
+  position: absolute;
+  clear: both;
+  width: 100%;
+  height: 209px;
+  top: 355px;
+}
+.retinavboc1{
+  display: block;
+  position: absolute;
+  transform: rotate(-90deg);
+  left: -28px;
+  top: 86px;
+}
+.retinavboc2{
+  display: block;
+  position: absolute;
+  transform: rotate(-90deg);
+  right: -28px;
+  top: 86px;
+}
+/* punkt2 */
+.punktir2{
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 50px;
+  top: 563px;
+}
+/* retina */
+.doroga .bold{
+  display: block;
+  position: absolute;
+  clear: both;
+  width: 100%;
+  height: 209px;
+  top: 613px;
+}
+.boldvboc1{
+  display: block;
+  position: absolute;
+  transform: rotate(-90deg);
+  left: -15px;
+  top: 86px;
+}
+.boldcurcle{
+  display: block;
+  position: absolute;
+  transform: rotate(-90deg);
+  left: 633px;
+  top: 20px;
+  border-radius: 50%;
+  border: 10px solid #E9AD00;
+  padding: 50px 25px 45px 25px;
+}
+.boldvboc2{
+  display: block;
+  position: absolute;
+  transform: rotate(-90deg);
+  right: -15px;
+  top: 86px;
+}
+/* punkt3 */
+.punktir3{
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 50px;
+  top: 822px;
+}
+/* italic */
+.doroga .italic{
+  display: block;
+  position: absolute;
+  clear: both;
+  width: 100%;
+  height: 209px;
+  top: 873px;
+}
+.italicvboc1{
+  display: block;
+  position: absolute;
+  transform: rotate(-90deg);
+  left: -28px;
+  top: 86px;
+}
+.italiccurcle{
+  display: block;
+  position: absolute;
+  transform: rotate(-90deg);
+  left: 633px;
+  top: 20px;
+  border-radius: 50%;
+  border: 10px solid #E9AD00;
+  padding: 50px 25px 45px 25px;
+}
+.italicvboc2{
+  display: block;
+  position: absolute;
+  transform: rotate(-90deg);
+  right: -28px;
+  top: 86px;
+}
+/* polockaniz */
+.doroga .polockawhite2{
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 50px;
+  background: white;
+  bottom: 45px;
+}

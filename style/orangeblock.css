@@ -1,0 +1,294 @@
+h2{
+  font-family: Monoid;
+  font-size: 67px;
+  font-weight: bold;
+  margin-top: 75px;
+  text-align: center;
+  margin-bottom: 75px;
+  color: #313131;
+}
+.orangeblock{
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 3775px;
+  background: #E9AD00;
+}
+/* obshie */
+.p1{
+  font-family: Monoid;
+  font-weight: bold;
+  font-size: 65px;
+  color: #313131;
+}
+.p2{
+  font-family: Monoid;
+  font-weight: bold;
+  font-size: 50px;
+  color: #313131;
+}
+.p3{
+  font-family: Monoid;
+  font-weight: bold;
+  font-size: 25px;
+  color: #313131;
+}
+/* pervii */
+.pervii{
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 858px;
+}
+.busstation img{
+  display: block;
+  position: absolute;
+  top: 40px;
+  left: 100px;
+}
+.busstation h3{
+  display: block;
+  position: absolute;
+  font-family: Monoid;
+  font-size: 44px;
+  font-weight: bold;
+  top: 70px;
+  left: 280px;
+  color: #313131;
+}
+.busstation h4{
+  display: block;
+  position: absolute;
+  font-family: Monoid;
+  font-size: 20px;
+  font-weight: bold;
+  top: 235px;
+  left: 490px;
+  color: #313131;
+}
+.busstation p{
+  display: block;
+  position: absolute;
+  font-family: Monoid;
+  font-size: 20px;
+  font-weight: 400;
+  top: 270px;
+  left: 490px;
+  line-height: 28px;
+  letter-spacing: -1.5px;
+  color: #313131;
+}
+.ukaznabus{
+  display: block;
+  position: absolute;
+  top: 130px;
+  right: 480px;
+}
+.ukaznone img{
+  display: block;
+  position: absolute;
+  bottom: 75px;
+  right: 110px;
+}
+.ukaznone p{
+  display: block;
+  position: absolute;
+  font-family: Monoid;
+  font-size: 52px;
+  font-weight: 700;
+  bottom: 395px;
+  right: 125px;
+  color: #313131;
+}
+/* punctir 1 */
+.punktir4{
+  display: block;
+  position: absolute;
+  top: 845px;
+}
+/* vtoroi */
+.vtoroi{
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 920px;
+  top: 900px;
+}
+.buszad img{
+  display: block;
+  position: absolute;
+  top: 35px;
+  left: 90px;
+}
+.nomerbus img{
+  display: block;
+  position: absolute;
+  bottom: 75px;
+  left: 210px;
+}
+.nomerbus .p1{
+  display: block;
+  position: absolute;
+  bottom: 85px;
+  left: 233px;
+}
+.nomerbus .p2{
+  display: block;
+  position: absolute;
+  bottom: 115px;
+  left: 530px;
+}
+.nomerbus .p3{
+  display: block;
+  position: absolute;
+  bottom: 85px;
+  left: 520px;
+}
+.nomerbus2 img{
+  display: block;
+  position: absolute;
+  top: 95px;
+  right: 210px;
+}
+.nomerbus2 .p1{
+  display: block;
+  position: absolute;
+  top: 123px;
+  right: 338px;
+}
+.nomerbus2 .p2{
+  display: block;
+  position: absolute;
+  top: 108px;
+  right: 240px;
+}
+.nomerbus2 .p3{
+  display: block;
+  position: absolute;
+  top: 163px;
+  right: 265px;
+}
+.buspered img{
+  display: block;
+  position: absolute;
+  bottom: 35px;
+  right: 90px;
+}
+/* punctir 2 */
+.punktir5{
+  display: block;
+  position: absolute;
+  top: 1830px;
+}
+/* tretii */
+.tretii{
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 860px;
+  top: 1900px;
+}
+.carzad img{
+  display: block;
+  position: absolute;
+  top: 25px;
+  left: 105px;
+}
+.nomercar img{
+  display: block;
+  position: absolute;
+  bottom: 205px;
+  left: 210px;
+}
+.nomercar .p1{
+  display: block;
+  position: absolute;
+  bottom: 215px;
+  left: 233px;
+}
+.nomercar .p2{
+  display: block;
+  position: absolute;
+  bottom: 245px;
+  left: 530px;
+}
+.nomercar .p3{
+  display: block;
+  position: absolute;
+  bottom: 215px;
+  left: 520px;
+}
+.nomercar2 img{
+  display: block;
+  position: absolute;
+  top: 155px;
+  right: 200px;
+}
+.nomercar2 .p1{
+  display: block;
+  position: absolute;
+  top: 183px;
+  right: 328px;
+}
+.nomercar2 .p2{
+  display: block;
+  position: absolute;
+  top: 168px;
+  right: 230px;
+}
+.nomercar2 .p3{
+  display: block;
+  position: absolute;
+  top: 223px;
+  right: 255px;
+}
+.carpered img{
+  display: block;
+  position: absolute;
+  bottom: 35px;
+  right: 90px;
+}
+/* punctir 3 */
+.punktir6{
+  display: block;
+  position: absolute;
+  top: 2780px;
+}
+/* chetvert */
+.chetvert{
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 860px;
+  top: 2850px;
+}
+.bilet img{
+  display: block;
+  position: absolute;
+  top: 25px;
+  left: 105px;
+}
+.cardnone img{
+  display: block;
+  position: absolute;
+  top: 50px;
+  right: 160px;
+}
+.cardnone p{
+  display: block;
+  position: absolute;
+  top: 330px;
+  right: 200px;
+  font-family: Monoid;
+  font-size: 68px;
+  font-weight: 700;
+  color: #313131;
+  letter-spacing: 25px;
+  transform: rotate(-15deg);
+}
+.prava img{
+  display: block;
+  position: absolute;
+  bottom: 25px;
+  right: 420px;
+}

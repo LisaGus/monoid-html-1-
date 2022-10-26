@@ -1,0 +1,139 @@
+.text{
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 2296px;
+}
+.text p{
+  font-family: Monoid;
+  font-size: 45px;
+  text-transform: uppercase;
+  color: #313131;
+  font-weight: 400;
+  line-height: 60px;
+}
+.text h5{
+  font-family: Monoid;
+  font-size: 45px;
+  text-transform: uppercase;
+  color: #313131;
+  font-weight: 400;
+  line-height: 60px;
+}
+/* qandx */
+.qandx{
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 510px;
+}
+.qandx img{
+  display: block;
+  position: absolute;
+  left: 70px;
+}
+.qandx p{
+  display: block;
+  position: absolute;
+  right: 115px;
+  top: 30px;
+}
+/* y */
+.y{
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 510px;
+  top: 510px;
+}
+.y p{
+  display: block;
+  position: absolute;
+  left: 115px;
+  top: 35px;
+}
+.y img{
+  display: block;
+  position: absolute;
+  right: 150px;
+  top: -60px;
+}
+/* cifri */
+.cifri{
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 900px;
+  top: 1120px;
+}
+.cifri h5{
+  display: block;
+  position: absolute;
+  left: 115px;
+  top: 40px;
+}
+.cifri img{
+  display: block;
+  position: absolute;
+  right: 150px;
+  top: 160px;
+}
+.cifri p{
+  display: block;
+  position: absolute;
+  left: 115px;
+  bottom: 35px;
+}
+/* contitul2 */
+.contitul2{
+  position: absolute;
+  display: block;
+  width: 100%;
+  height: 444px;
+  top: 2050px;
+}
+.finalpunkt{
+  display: block;
+  position: absolute;
+  top: 110px;
+}
+.contitul2 .polocka{
+  display: block;
+  position: absolute;
+  background: #E9AD00;
+  width: 100%;
+  height: 50px;
+  top: 20px;
+}
+.contitul2 h2{
+  display: block;
+  position: absolute;
+  font-family: Monoid;
+  font-weight: bold;
+  font-size:50px;
+  color: #313131;
+  right: 17px;
+  bottom: 26px;
+}
+.contitul2 p{
+  display: block;
+  position: absolute;
+  font-family: Monoid;
+  font-size: 35px;
+  color: #313131;
+  right: 17px;
+  bottom: 40px;
+}
+.contitul2 .curcle_c{
+  display: block;
+  position: absolute;
+  border-radius: 50%;
+  border: 3.86px solid #313131;
+  font-family: Monoid;
+  font-size: 28.56px;
+  font-weight: bold;
+  color: #313131;
+  padding: 7px 10px 5px 8px;
+  bottom: 105px;
+  right: 500px;
+}

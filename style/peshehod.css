@@ -1,0 +1,142 @@
+.peshehod{
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 1417px;
+}
+/* verhtext */
+.peshehod .text2 p{
+  display: block;
+  position: absolute;
+  font-family: Monoid;
+  color: #313131;
+  text-align:left;
+  font-size: 50px;
+  line-height: 68px;
+  text-transform: uppercase;
+  top: 88px;
+  right: 150px;
+  bottom: 77px;
+  left: 245px;
+}
+.peshehod .text2 .bold{
+  font-weight: bold;
+}
+/* blocregular */
+.peshehod .odin{
+  display: block;
+  position: absolute;
+  font-family: Monoid;
+  color: #fff;
+  font-size: 47px;
+  font-weight: 400;
+  text-align: center;
+  line-height: 60px;
+  width: 1000px;
+  height: 120px;
+  background: #E9AD00;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  left: 242px;
+  top: 370px;
+}
+.peshehod .odinre{
+  display: block;
+  position: absolute;
+  font-family: Monoid;
+  color: #313131;
+  font-size: 47px;
+  font-weight: 400;
+  letter-spacing: 1px;
+  top: 540px;
+  left: 640px;
+}
+/* blocretina */
+.peshehod .dwa{
+  display: block;
+  position: absolute;
+  font-family: Monoid;
+  color: #fff;
+  font-size: 47px;
+  font-weight: 400;
+  text-align: center;
+  line-height: 60px;
+  width: 1000px;
+  height: 120px;
+  background: #E9AD00;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  left: 242px;
+  top: 616px;
+}
+.peshehod .dware{
+  display: block;
+  position: absolute;
+  font-family: Monoid;
+  color: #313131;
+  font-size: 47px;
+  font-weight: 400;
+  letter-spacing: 1px;
+  top: 790px;
+  left: 648px;
+}
+/* blocbold */
+.peshehod .tri{
+  display: block;
+  position: absolute;
+  font-family: Monoid;
+  color: #fff;
+  font-size: 47px;
+  font-weight: 700;
+  text-align: center;
+  line-height: 60px;
+  width: 1000px;
+  height: 120px;
+  background: #E9AD00;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  left: 242px;
+  top: 864px;
+}
+.peshehod .tribo{
+  display: block;
+  position: absolute;
+  font-family: Monoid;
+  color: #313131;
+  font-size: 47px;
+  font-weight: 700;
+  letter-spacing: 1px;
+  top: 1037px;
+  left: 672px;
+}
+/* blocitalic */
+.peshehod .chetiri{
+  display: block;
+  position: absolute;
+  font-family: Monoid;
+  color: #fff;
+  font-size: 47px;
+  font-weight: 400;
+  font-style: italic;
+  text-align: center;
+  line-height: 60px;
+  width: 1000px;
+  height: 120px;
+  background: #E9AD00;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  left: 242px;
+  top: 1112px;
+}
+.peshehod .chetiriit{
+  display: block;
+  position: absolute;
+  font-family: Monoid;
+  color: #313131;
+  font-size: 47px;
+  font-weight: 400;
+  font-style: italic;
+  letter-spacing: 1px;
+  top: 1287px;
+  left: 635px;
+}

@@ -1,0 +1,22 @@
+.head{
+  position: relative;
+  display: block;
+  height: 836px;
+}
+.head img{
+  position: absolute;
+  display: block;
+  width: 100%;
+  height: 836px;
+}
+.head h1{
+  display: block;
+  position: absolute;
+  font-family: Monoid;
+  font-size: 300px;
+  font-weight: bold;
+  color: #E9AD00;
+  z-index: 1px;
+  top: 255px;
+  left: 120px;
+}

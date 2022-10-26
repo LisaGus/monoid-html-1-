@@ -1,0 +1,223 @@
+.doroga_pesh{
+  display: block;
+  position: relative;
+  background:#626262;
+  height: 1100px;
+  width: 100%;
+}
+/* основные размеры и виды */
+.reg{
+  font-family: Monoid;
+  font-weight: 400;
+  font-size: 75px;
+  color: #313131;
+}
+.bol{
+  font-family: Monoid;
+  font-weight: 700;
+  font-size: 75px;
+  color: #313131;
+}
+.ita{
+  font-family: Monoid;
+  font-weight: 400;
+  font-size: 75px;
+  font-style: italic;
+  color: #313131;
+}
+.RE{
+  display: block;
+  position: absolute;
+  top: 35px;
+  left: 30px;
+}
+.RE2{
+  display: block;
+  position: absolute;
+  top: 35px;
+  left: 125px;
+}
+.BO{
+  display: block;
+  position: absolute;
+  top: 35px;
+  left: 220px;
+}
+.IT{
+  display: block;
+  position: absolute;
+  top: 35px;
+  left: 320px;
+}
+.GRE{
+  display: block;
+  position: absolute;
+  top: 35px;
+  right: 30px;
+}
+.GRE2{
+  display: block;
+  position: absolute;
+  top: 35px;
+  right: 125px;
+}
+.GBO{
+  display: block;
+  position: absolute;
+  top: 35px;
+  right: 220px;
+}
+.GIT{
+  display: block;
+  position: absolute;
+  top: 35px;
+  right: 320px;
+}
+/* polockaverh */
+.doroga_pesh .polockawhite3{
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 50px;
+  background: white;
+  top: 45px;
+}
+/* poloca1 */
+.regular-90{
+  display: block;
+  position: absolute;
+  font-family: Monoid;
+  font-weight: 400;
+  font-size: 36px;
+  color: #E9AD00;
+  transform: rotate(-90deg);
+  top: 95px;
+  left: -128px;
+}
+.poloca1{
+  display: block;
+  position: absolute;
+  background: #fff;
+  width: 1000px;
+  height: 151px;
+  top: 95px;
+  left: 220px;
+}
+.regular_90{
+  display: block;
+  position: absolute;
+  font-family: Monoid;
+  font-weight: 400;
+  font-size: 36px;
+  color: #E9AD00;
+  transform: rotate(90deg);
+  top: 95px;
+  right: -128px;
+}
+/* poloca2 */
+.retina-90{
+  display: block;
+  position: absolute;
+  font-family: Monoid;
+  font-weight: 400;
+  font-size: 36px;
+  color: #E9AD00;
+  transform: rotate(-90deg);
+  top: 85px;
+  left: -118px;
+}
+.poloca2{
+  display: block;
+  position: absolute;
+  background: #fff;
+  width: 1000px;
+  height: 151px;
+  top: 346px;
+  left: 220px;
+}
+.retina_90{
+  display: block;
+  position: absolute;
+  font-family: Monoid;
+  font-weight: 400;
+  font-size: 36px;
+  color: #E9AD00;
+  transform: rotate(90deg);
+  top: 85px;
+  right: -118px;
+}
+/* poloca3 */
+.bold-90{
+  display: block;
+  position: absolute;
+  font-family: Monoid;
+  font-weight: 700;
+  font-size: 36px;
+  color: #E9AD00;
+  transform: rotate(-90deg);
+  top: 50px;
+  left: -95px;
+}
+.poloca3{
+  display: block;
+  position: absolute;
+  background: #fff;
+  width: 1000px;
+  height: 151px;
+  top: 597px;
+  left: 220px;
+}
+.bold_90{
+  display: block;
+  position: absolute;
+  font-family: Monoid;
+  font-weight: 700;
+  font-size: 36px;
+  color: #E9AD00;
+  transform: rotate(90deg);
+  top: 50px;
+  right: -95px;
+}
+/* poloca4 */
+.italic-90{
+  display: block;
+  position: absolute;
+  font-family: Monoid;
+  font-weight: 400;
+  font-style: italic;
+  font-size: 36px;
+  color: #E9AD00;
+  transform: rotate(-90deg);
+  top: 20px;
+  left: -120px;
+}
+.poloca4{
+  display: block;
+  position: absolute;
+  background: #fff;
+  width: 1000px;
+  height: 151px;
+  top: 848px;
+  left: 220px;
+}
+.italic_90{
+  display: block;
+  position: absolute;
+  font-family: Monoid;
+  font-weight: 400;
+  font-style: italic;
+  font-size: 36px;
+  color: #E9AD00;
+  transform: rotate(90deg);
+  top: 20px;
+  right: -120px;
+}
+/* polockaniz */
+.doroga_pesh .polockawhite4{
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 50px;
+  background: white;
+  bottom: 51px;
+}
